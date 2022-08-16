@@ -1,0 +1,136 @@
+body{ 
+    margin: 0%;
+}
+#food{
+    
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+    text-shadow: 10px 2px 10px rgb(0, 0, 0);
+    font-family: 'Uchen', serif;
+    margin-left: 150px;
+    margin-top:10px;
+    
+}
+
+#tejj{
+    background:linear-gradient(to right, #686565f6, #0a0a0b);
+    padding: 25px;
+    box-shadow: 10px 10px 10px rgba(248, 203, 1, 0.775);
+    position: sticky;
+    
+    
+}
+#menu{
+    margin-left: 75%;
+    word-spacing: 10px;
+    font-size: 20px;
+    background-color: #e5e5e5;
+    background:linear-gradient(to left, #52505200, #21212287);;
+    position: relative;
+    top: -50px;
+    
+font-family: 'Dancing Script', cursive;
+font-family: 'DynaPuff', cursive;
+font-family: 'Pacifico', cursive;
+    
+    
+    
+
+    
+}
+#magie{
+    margin-left: 100px;
+    transform:translateY(19%);
+    width: 800px;
+    position: relative;
+    top: -49px;
+    left: -50px;
+    box-shadow: 10px 10px 10px rgb(22, 22, 5);
+
+    
+}
+#magie:hover{
+ border: 3px solid rgba(0, 0, 0, 0.381);
+
+}
+#items{
+    position: relative;
+    top: -381px;
+    margin-left: 950px;
+    
+    font-family: 'Dancing Script', cursive;
+    font-family: 'DynaPuff', cursive;
+    font-family: 'Pacifico', cursive;
+    
+}
+
+#buttons{
+   margin-left: 950px;
+    position: relative;
+    top: -200px;
+    height: 10px;
+    
+}
+#order{
+     padding:10px;
+     width: 150px;
+     position: relative;
+     top: -60px;
+     border-radius: 50px;
+     margin-right: 50px;
+     background-color: rgb(196, 131, 45);
+
+
+}
+#order:hover{
+    color: rgb(235, 241, 239);
+    background-color: rgb(188, 183, 44);
+}
+
+
+#id{
+    background: linear-gradient(to left, #312f31c8, #00000042);
+    height: max-content;
+    position: relative;
+    top: -40px;
+
+    
+    
+}
+
+#shaf1{
+    width: 300px;
+    height: 200px;
+    transform: translateX(200%);
+    position: relative;
+    top: 20px;
+    margin-bottom: 15px;
+}
+#shaf1:hover{
+    border: 3px solid rgba(0, 0, 0, 0.381);
+
+}
+#paragraph{
+    text-align: center;
+    margin-left:100px;
+    font-family: 'Caveat', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'DynaPuff', cursive;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 10px;
+    
+}
+#icon{
+    font-size: 50px;
+    position:relative;
+    left: 500px;
+    margin-left: 60px;
+    color: rgba(0, 0, 0, 0.381);
+    
+}
+#background{
+    background: linear-gradient(to right, #444244, #151516);
+    box-shadow: 10px 10px 9px rgb(30, 29, 29);
+    
+}
